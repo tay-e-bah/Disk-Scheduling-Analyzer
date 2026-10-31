@@ -1,4 +1,4 @@
-# Disk Scheduling & Performance Analyzer (Upgraded)
+# Disk Scheduling & Performance Analyzer
 
 A C++11 terminal application that simulates five disk scheduling algorithms and compares their total head movement.
 
